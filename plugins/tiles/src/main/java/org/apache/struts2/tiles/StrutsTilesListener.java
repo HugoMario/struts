@@ -21,7 +21,7 @@ package org.apache.struts2.tiles;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.apache.struts2.tiles.web.startup.AbstractTilesListener;
-import org.apache.tiles.startup.TilesInitializer;
+import org.apache.tiles.core.startup.TilesInitializer;
 
 /**
  * Listener used to automatically tie Tiles support into Struts

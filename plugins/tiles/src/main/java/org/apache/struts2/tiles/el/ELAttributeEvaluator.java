@@ -22,7 +22,7 @@ package org.apache.struts2.tiles.el;
 import jakarta.el.ELResolver;
 import jakarta.el.ExpressionFactory;
 import jakarta.el.ValueExpression;
-import org.apache.tiles.evaluator.AbstractAttributeEvaluator;
+import org.apache.tiles.core.evaluator.AbstractAttributeEvaluator;
 import org.apache.tiles.request.ApplicationContext;
 import org.apache.tiles.request.Request;
 

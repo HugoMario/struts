@@ -22,7 +22,7 @@ import jakarta.servlet.ServletContext;
 import jakarta.servlet.ServletContextEvent;
 import jakarta.servlet.ServletContextListener;
 import org.apache.struts2.tiles.request.servlet.ServletApplicationContext;
-import org.apache.tiles.startup.TilesInitializer;
+import org.apache.tiles.core.startup.TilesInitializer;
 
 public abstract class AbstractTilesListener  implements ServletContextListener {
 
